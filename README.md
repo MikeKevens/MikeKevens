@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mike Kevens</h1>
 <h3 align="center">Computer Engineering student.</h3>
 
-<img align="right" alt="Coding" width="300" src="https://thumbs.gfycat.com/CreativeAthleticCrocodile-size_restricted.gif">
+<img align="right" alt="Coding" width="300"  height="350" src="https://thumbs.gfycat.com/CreativeAthleticCrocodile-size_restricted.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikekevens&label=Profile%20views&color=0e75b6&style=flat" alt="mikekevens" /> </p>
 
