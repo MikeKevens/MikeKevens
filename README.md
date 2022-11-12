@@ -11,7 +11,7 @@
 
 - 🥅 2022 Goals **Learn more about web3.**
 
-- 👨‍💻 All of my projects are available at (Coming soon)
+- 👨‍💻 All of my projects are available at **Coming soon...**
 
 - 👨🏿‍💻 Languages **python,php and js.**
 
