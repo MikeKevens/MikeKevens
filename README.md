@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Django.**
 
-- 🥅 2022 Goals **Learn more about web3.**
+- 🥅 2023 Goals **Learn more leangues.**
 
 - 👨‍💻 All of my projects are available at **Coming soon...**
 
