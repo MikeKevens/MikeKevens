@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Django.**
 
-- 🥅 2023 Goals **Learn more leangues.**
-
 - 👨‍💻 All of my projects are available at **Coming soon...**
 
 - 👨🏿‍💻 Languages **python,php and js.**
