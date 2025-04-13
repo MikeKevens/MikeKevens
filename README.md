@@ -5,14 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikekevens&label=Profile%20views&color=0e75b6&style=flat" alt="mikekevens" /> </p>
 
-- 🔭 I’m currently working on **some of my cool side projects based on Web Development and Machine Learning.**
-
-- 🌱 I’m currently learning **Django.**
-
-- 👨‍💻 All of my projects are available at **Coming soon...**
-
-- 👨🏿‍💻 Languages **python,php and js.**
-
 - 📫 How to reach me **mike.kevenskt@gmail.com**
 
 - ⚡ Fun fact **Everything has a solution, we have to deal with whatever comes our way.**
